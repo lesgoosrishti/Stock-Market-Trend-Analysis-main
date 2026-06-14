@@ -1,5 +1,5 @@
 # Netflix Stock Price Trend Analysis Project
-### Author github.com/tushar2704
+### Author github.com/lesgoosrishti
 
 # Fetching data from yfinance
 """
